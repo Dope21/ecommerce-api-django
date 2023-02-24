@@ -6,10 +6,7 @@ An API created with Django, PostgreSQL and OOP (Object Oriented Programming) for
 
 - [Django](https://www.djangoproject.com/) - python framework for building web applicaiton
 - [PostgreSQL](https://www.postgresql.org/) - a free and open-source relational database
-
-## Packages
-
-- [django-environ](https://django-environ.readthedocs.io/en/latest/) - for reading evironment variables
+- [Django REST Framework](https://www.django-rest-framework.org/) - a powerful and flexible toolkit for building Web APIs with Django.
 
 ## Environment Variables
 
