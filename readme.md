@@ -1,6 +1,6 @@
 # Django REST API for e-commerce website
 
-An API created with Django, PostgreSQL and OOP (Object Oriented Programming) for my e-commerce website project
+A REST API using Django, a Python web framework with PostgreSQL for an e-commerce website.
 
 ## Stacks
 
