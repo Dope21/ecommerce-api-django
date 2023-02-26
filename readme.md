@@ -1,4 +1,4 @@
-# API for Keyboard store e-commerce website
+# Django REST API for e-commerce website
 
 An API created with Django, PostgreSQL and OOP (Object Oriented Programming) for my e-commerce website project
 
